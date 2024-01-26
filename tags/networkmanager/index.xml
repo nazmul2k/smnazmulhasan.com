@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>networkmanager on Linux Cloud Ways</title>
+    <link>https://linuxcloudways.com/tags/networkmanager/</link>
+    <description>Recent content in networkmanager on Linux Cloud Ways</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Jan 2024 22:13:17 +0600</lastBuildDate><atom:link href="https://linuxcloudways.com/tags/networkmanager/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Connect Wi Fi in Vanilla Arch</title>
+      <link>https://linuxcloudways.com/posts/how-to-connect-wi-fi-in-vanilla-arch/</link>
+      <pubDate>Thu, 25 Jan 2024 22:13:17 +0600</pubDate>
+      
+      <guid>https://linuxcloudways.com/posts/how-to-connect-wi-fi-in-vanilla-arch/</guid>
+      
+      <description>
+Connect wifi during installation
+wpa_supplicant -B -i wlan0 -c &amp;lt;(wpa_passphrase &amp;#34;ssid&amp;#34; &amp;#34;passphrase&amp;#34;) Conntect WiFi on first boot N.B: Required Network Manager
+nmcli device wifi connect Your_SSID password Your_Password </description>
+      
+    </item>
+    
+  </channel>
+</rss>

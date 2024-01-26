@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>i3wm on Linux Cloud Ways</title>
+    <link>https://linuxcloudways.com/categories/i3wm/</link>
+    <description>Recent content in i3wm on Linux Cloud Ways</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Jan 2024 23:12:42 +0600</lastBuildDate><atom:link href="https://linuxcloudways.com/categories/i3wm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Add Screenshot Facility in I3 Wm</title>
+      <link>https://linuxcloudways.com/posts/add-screenshot-facility-in-i3-wm/</link>
+      <pubDate>Thu, 25 Jan 2024 23:12:42 +0600</pubDate>
+      
+      <guid>https://linuxcloudways.com/posts/add-screenshot-facility-in-i3-wm/</guid>
+      
+      <description>Dependencies: maim, xclip, xdotool
+## Screenshots in files bindsym Print exec --no-startup-id maim --format=png &amp;#34;/home/$USER/Pictures/screenshot-$(date -u +&amp;#39;%Y%m%d-%H%M%SZ&amp;#39;)-all.png&amp;#34; bindsym $mod+Print exec --no-startup-id maim --format=png --window $(xdotool getactivewindow) &amp;#34;/home/$USER/Pictures/screenshot-$(date -u +&amp;#39;%Y%m%d-%H%M%SZ&amp;#39;)-current.png&amp;#34; bindsym Shift+Print exec --no-startup-id maim --format=png --select &amp;#34;/home/$USER/Pictures/screenshot-$(date -u +&amp;#39;%Y%m%d-%H%M%SZ&amp;#39;)-selected.png&amp;#34; ## Screenshots in clipboards bindsym Ctrl+Print exec --no-startup-id maim --format=png | xclip -selection clipboard -t image/png bindsym Ctrl+$mod+Print exec --no-startup-id maim --format=png --window $(xdotool getactivewindow) | xclip -selection clipboard -t image/png bindsym Ctrl+Shift+Print exec --no-startup-id maim --format=png --select | xclip -selection clipboard -t image/png </description>
+      
+    </item>
+    
+  </channel>
+</rss>

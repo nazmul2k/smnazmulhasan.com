@@ -5,6 +5,40 @@
     <link>https://linuxcloudways.com/categories/</link>
     <description>Recent content in Categories on Linux Cloud Ways</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://linuxcloudways.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Jan 2024 23:12:42 +0600</lastBuildDate><atom:link href="https://linuxcloudways.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>i3wm</title>
+      <link>https://linuxcloudways.com/categories/i3wm/</link>
+      <pubDate>Thu, 25 Jan 2024 23:12:42 +0600</pubDate>
+      
+      <guid>https://linuxcloudways.com/categories/i3wm/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://linuxcloudways.com/categories/linux/</link>
+      <pubDate>Thu, 25 Jan 2024 23:12:42 +0600</pubDate>
+      
+      <guid>https://linuxcloudways.com/categories/linux/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Archlinux</title>
+      <link>https://linuxcloudways.com/categories/archlinux/</link>
+      <pubDate>Thu, 25 Jan 2024 22:13:17 +0600</pubDate>
+      
+      <guid>https://linuxcloudways.com/categories/archlinux/</guid>
+      
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>
