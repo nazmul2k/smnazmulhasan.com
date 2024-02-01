@@ -52,7 +52,7 @@
         },
         "datePublished": "2024-01-25",
         "description": "",
-        "wordCount":  83 ,
+        "wordCount":  102 ,
         "mainEntityOfPage": "True",
         "dateModified": "2024-01-25",
         "image": {
@@ -67,7 +67,7 @@
     </script>
 
 
-<meta name="generator" content="Hugo 0.121.2">
+<meta name="generator" content="Hugo 0.122.0">
 
     
 
@@ -192,8 +192,14 @@ stroke-linejoin="round" class="feather feather-home">
         <nav id="TableOfContents"></nav>
     </details>
             <div class="page-content">
-                <p><strong>Dependencies:</strong>  maim, xclip, xdotool</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="c1">##  Screenshots in files</span>
+                <p><strong>Dependencies:</strong>  maim, xclip, xdotool
+<strong>Optional Dependencies:</strong> flameshot, shutter</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="c1">######### Screenshots ########</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">bindsym <span class="nv">$mod</span>+Shift+s <span class="nb">exec</span> --no-startup-id flameshot gui
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1">##  Screenshots in files</span>
 </span></span><span class="line"><span class="cl">bindsym Print <span class="nb">exec</span> --no-startup-id maim --format<span class="o">=</span>png <span class="s2">&#34;/home/</span><span class="nv">$USER</span><span class="s2">/Pictures/screenshot-</span><span class="k">$(</span>date -u +<span class="s1">&#39;%Y%m%d-%H%M%SZ&#39;</span><span class="k">)</span><span class="s2">-all.png&#34;</span>
 </span></span><span class="line"><span class="cl">bindsym <span class="nv">$mod</span>+Print <span class="nb">exec</span> --no-startup-id maim --format<span class="o">=</span>png --window <span class="k">$(</span>xdotool getactivewindow<span class="k">)</span> <span class="s2">&#34;/home/</span><span class="nv">$USER</span><span class="s2">/Pictures/screenshot-</span><span class="k">$(</span>date -u +<span class="s1">&#39;%Y%m%d-%H%M%SZ&#39;</span><span class="k">)</span><span class="s2">-current.png&#34;</span>
 </span></span><span class="line"><span class="cl">bindsym Shift+Print <span class="nb">exec</span> --no-startup-id maim --format<span class="o">=</span>png --select <span class="s2">&#34;/home/</span><span class="nv">$USER</span><span class="s2">/Pictures/screenshot-</span><span class="k">$(</span>date -u +<span class="s1">&#39;%Y%m%d-%H%M%SZ&#39;</span><span class="k">)</span><span class="s2">-selected.png&#34;</span>
@@ -202,10 +208,10 @@ stroke-linejoin="round" class="feather feather-home">
 </span></span><span class="line"><span class="cl">bindsym Ctrl+Print <span class="nb">exec</span> --no-startup-id maim --format<span class="o">=</span>png <span class="p">|</span> xclip -selection clipboard -t image/png
 </span></span><span class="line"><span class="cl">bindsym Ctrl+<span class="nv">$mod</span>+Print <span class="nb">exec</span> --no-startup-id maim --format<span class="o">=</span>png --window <span class="k">$(</span>xdotool getactivewindow<span class="k">)</span> <span class="p">|</span> xclip -selection clipboard -t image/png
 </span></span><span class="line"><span class="cl">bindsym Ctrl+Shift+Print <span class="nb">exec</span> --no-startup-id maim --format<span class="o">=</span>png --select <span class="p">|</span> xclip -selection clipboard -t image/png
+</span></span><span class="line"><span class="cl"><span class="c1"># bindsym mod1+Print exec --no-startup-id shutter</span>
 </span></span></code></pre></div>
             </div>
-        </article>
-    </main>
+        </article></main>
 </div>
 <footer class="footer">
     <span class="footer_item"> </span>
