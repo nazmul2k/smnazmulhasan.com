@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>i3wm on Linux Cloud Ways</title>
-    <link>https://linuxcloudways.com/tags/i3wm/</link>
-    <description>Recent content in i3wm on Linux Cloud Ways</description>
+    <title>i3wm on S. M. Nazmul Hasan</title>
+    <link>https://smnazmulhasan.com/tags/i3wm/</link>
+    <description>Recent content in i3wm on S. M. Nazmul Hasan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jan 2024 23:12:42 +0600</lastBuildDate><atom:link href="https://linuxcloudways.com/tags/i3wm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Jan 2024 23:12:42 +0600</lastBuildDate><atom:link href="https://smnazmulhasan.com/tags/i3wm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Add Screenshot Facility in I3 Wm</title>
-      <link>https://linuxcloudways.com/posts/add-screenshot-facility-in-i3-wm/</link>
+      <link>https://smnazmulhasan.com/posts/add-screenshot-facility-in-i3-wm/</link>
       <pubDate>Thu, 25 Jan 2024 23:12:42 +0600</pubDate>
       
-      <guid>https://linuxcloudways.com/posts/add-screenshot-facility-in-i3-wm/</guid>
+      <guid>https://smnazmulhasan.com/posts/add-screenshot-facility-in-i3-wm/</guid>
       
       <description>Dependencies: maim, xclip, xdotool
 Optional Dependencies: flameshot, shutter
