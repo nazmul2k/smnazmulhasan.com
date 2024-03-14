@@ -2,22 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://smnazmulhasan.com/categories/archlinux/</loc>
+    <lastmod>2024-03-14T10:13:18+06:00</lastmod>
+  </url><url>
+    <loc>https://smnazmulhasan.com/tags/archlinux/</loc>
+    <lastmod>2024-03-14T10:13:18+06:00</lastmod>
+  </url><url>
     <loc>https://smnazmulhasan.com/categories/</loc>
-    <lastmod>2024-02-05T14:16:15+06:00</lastmod>
+    <lastmod>2024-03-14T10:13:18+06:00</lastmod>
+  </url><url>
+    <loc>https://smnazmulhasan.com/posts/how-to-add-user-dirs-in-arch-linux/</loc>
+    <lastmod>2024-03-14T10:13:18+06:00</lastmod>
+  </url><url>
+    <loc>https://smnazmulhasan.com/tags/linux/</loc>
+    <lastmod>2024-03-14T10:13:18+06:00</lastmod>
+  </url><url>
+    <loc>https://smnazmulhasan.com/categories/linux/</loc>
+    <lastmod>2024-03-14T10:13:18+06:00</lastmod>
+  </url><url>
+    <loc>https://smnazmulhasan.com/posts/</loc>
+    <lastmod>2024-03-14T10:13:18+06:00</lastmod>
+  </url><url>
+    <loc>https://smnazmulhasan.com/</loc>
+    <lastmod>2024-03-14T10:13:18+06:00</lastmod>
+  </url><url>
+    <loc>https://smnazmulhasan.com/tags/</loc>
+    <lastmod>2024-03-14T10:13:18+06:00</lastmod>
+  </url><url>
+    <loc>https://smnazmulhasan.com/tags/userdirs/</loc>
+    <lastmod>2024-03-14T10:13:18+06:00</lastmod>
+  </url><url>
+    <loc>https://smnazmulhasan.com/tags/xdg-user-dirs/</loc>
+    <lastmod>2024-03-14T10:13:18+06:00</lastmod>
+  </url><url>
+    <loc>https://smnazmulhasan.com/posts/how-to-fix-no-trash-on-arch-linux/</loc>
+    <lastmod>2024-03-14T10:05:54+06:00</lastmod>
+  </url><url>
+    <loc>https://smnazmulhasan.com/tags/notrash/</loc>
+    <lastmod>2024-03-14T10:05:54+06:00</lastmod>
   </url><url>
     <loc>https://smnazmulhasan.com/posts/how-to-show-wifi-password-in-windows/</loc>
     <lastmod>2024-02-05T14:16:15+06:00</lastmod>
   </url><url>
     <loc>https://smnazmulhasan.com/tags/password-hack/</loc>
-    <lastmod>2024-02-05T14:16:15+06:00</lastmod>
-  </url><url>
-    <loc>https://smnazmulhasan.com/posts/</loc>
-    <lastmod>2024-02-05T14:16:15+06:00</lastmod>
-  </url><url>
-    <loc>https://smnazmulhasan.com/</loc>
-    <lastmod>2024-02-05T14:16:15+06:00</lastmod>
-  </url><url>
-    <loc>https://smnazmulhasan.com/tags/</loc>
     <lastmod>2024-02-05T14:16:15+06:00</lastmod>
   </url><url>
     <loc>https://smnazmulhasan.com/categories/tricks/</loc>
@@ -50,9 +77,6 @@
     <loc>https://smnazmulhasan.com/posts/add-screenshot-facility-in-i3-wm/</loc>
     <lastmod>2024-01-25T23:12:42+06:00</lastmod>
   </url><url>
-    <loc>https://smnazmulhasan.com/tags/archlinux/</loc>
-    <lastmod>2024-01-25T23:12:42+06:00</lastmod>
-  </url><url>
     <loc>https://smnazmulhasan.com/tags/i3/</loc>
     <lastmod>2024-01-25T23:12:42+06:00</lastmod>
   </url><url>
@@ -62,17 +86,8 @@
     <loc>https://smnazmulhasan.com/categories/i3wm/</loc>
     <lastmod>2024-01-25T23:12:42+06:00</lastmod>
   </url><url>
-    <loc>https://smnazmulhasan.com/tags/linux/</loc>
-    <lastmod>2024-01-25T23:12:42+06:00</lastmod>
-  </url><url>
-    <loc>https://smnazmulhasan.com/categories/linux/</loc>
-    <lastmod>2024-01-25T23:12:42+06:00</lastmod>
-  </url><url>
     <loc>https://smnazmulhasan.com/tags/screenshot/</loc>
     <lastmod>2024-01-25T23:12:42+06:00</lastmod>
-  </url><url>
-    <loc>https://smnazmulhasan.com/categories/archlinux/</loc>
-    <lastmod>2024-01-25T22:13:17+06:00</lastmod>
   </url><url>
     <loc>https://smnazmulhasan.com/posts/how-to-connect-wi-fi-in-vanilla-arch/</loc>
     <lastmod>2024-01-25T22:13:17+06:00</lastmod>

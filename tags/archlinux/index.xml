@@ -1,12 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>archlinux on S. M. Nazmul Hasan</title>
+    <title>ArchLinux on S. M. Nazmul Hasan</title>
     <link>https://smnazmulhasan.com/tags/archlinux/</link>
-    <description>Recent content in archlinux on S. M. Nazmul Hasan</description>
+    <description>Recent content in ArchLinux on S. M. Nazmul Hasan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jan 2024 23:12:42 +0600</lastBuildDate><atom:link href="https://smnazmulhasan.com/tags/archlinux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Mar 2024 10:13:18 +0600</lastBuildDate><atom:link href="https://smnazmulhasan.com/tags/archlinux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Add User Dirs in Arch Linux</title>
+      <link>https://smnazmulhasan.com/posts/how-to-add-user-dirs-in-arch-linux/</link>
+      <pubDate>Thu, 14 Mar 2024 10:13:18 +0600</pubDate>
+      
+      <guid>https://smnazmulhasan.com/posts/how-to-add-user-dirs-in-arch-linux/</guid>
+      
+      <description>Run the following commands line by line
+sudo pacman -S xdg-user-dirs xdg-user-dirs-update Reference: ArchWiki</description>
+      
+    </item>
+    
+    <item>
+      <title>How to Fix No Trash on Arch Linux</title>
+      <link>https://smnazmulhasan.com/posts/how-to-fix-no-trash-on-arch-linux/</link>
+      <pubDate>Thu, 14 Mar 2024 10:05:54 +0600</pubDate>
+      
+      <guid>https://smnazmulhasan.com/posts/how-to-fix-no-trash-on-arch-linux/</guid>
+      
+      <description>Install the gvfs package by running the following command
+sudo pacman -S gvfs </description>
+      
+    </item>
+    
     <item>
       <title>Add Screenshot Facility in I3 Wm</title>
       <link>https://smnazmulhasan.com/posts/add-screenshot-facility-in-i3-wm/</link>

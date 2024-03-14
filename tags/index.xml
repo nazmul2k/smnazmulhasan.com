@@ -6,9 +6,64 @@
     <description>Recent content in Tags on S. M. Nazmul Hasan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Feb 2024 14:16:15 +0600</lastBuildDate><atom:link href="https://smnazmulhasan.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Mar 2024 10:13:18 +0600</lastBuildDate><atom:link href="https://smnazmulhasan.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>password-hack</title>
+      <title>ArchLinux</title>
+      <link>https://smnazmulhasan.com/tags/archlinux/</link>
+      <pubDate>Thu, 14 Mar 2024 10:13:18 +0600</pubDate>
+      
+      <guid>https://smnazmulhasan.com/tags/archlinux/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://smnazmulhasan.com/tags/linux/</link>
+      <pubDate>Thu, 14 Mar 2024 10:13:18 +0600</pubDate>
+      
+      <guid>https://smnazmulhasan.com/tags/linux/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Userdirs</title>
+      <link>https://smnazmulhasan.com/tags/userdirs/</link>
+      <pubDate>Thu, 14 Mar 2024 10:13:18 +0600</pubDate>
+      
+      <guid>https://smnazmulhasan.com/tags/userdirs/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Xdg-User-Dirs</title>
+      <link>https://smnazmulhasan.com/tags/xdg-user-dirs/</link>
+      <pubDate>Thu, 14 Mar 2024 10:13:18 +0600</pubDate>
+      
+      <guid>https://smnazmulhasan.com/tags/xdg-user-dirs/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Notrash</title>
+      <link>https://smnazmulhasan.com/tags/notrash/</link>
+      <pubDate>Thu, 14 Mar 2024 10:05:54 +0600</pubDate>
+      
+      <guid>https://smnazmulhasan.com/tags/notrash/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Password-Hack</title>
       <link>https://smnazmulhasan.com/tags/password-hack/</link>
       <pubDate>Mon, 05 Feb 2024 14:16:15 +0600</pubDate>
       
@@ -19,7 +74,7 @@
     </item>
     
     <item>
-      <title>wifi</title>
+      <title>Wifi</title>
       <link>https://smnazmulhasan.com/tags/wifi/</link>
       <pubDate>Mon, 05 Feb 2024 14:16:15 +0600</pubDate>
       
@@ -30,7 +85,7 @@
     </item>
     
     <item>
-      <title>win10wifi</title>
+      <title>Win10wifi</title>
       <link>https://smnazmulhasan.com/tags/win10wifi/</link>
       <pubDate>Mon, 05 Feb 2024 14:16:15 +0600</pubDate>
       
@@ -41,7 +96,7 @@
     </item>
     
     <item>
-      <title>windows</title>
+      <title>Windows</title>
       <link>https://smnazmulhasan.com/tags/windows/</link>
       <pubDate>Mon, 05 Feb 2024 14:16:15 +0600</pubDate>
       
@@ -52,7 +107,7 @@
     </item>
     
     <item>
-      <title>windows10</title>
+      <title>Windows10</title>
       <link>https://smnazmulhasan.com/tags/windows10/</link>
       <pubDate>Mon, 05 Feb 2024 14:16:15 +0600</pubDate>
       
@@ -63,18 +118,7 @@
     </item>
     
     <item>
-      <title>archlinux</title>
-      <link>https://smnazmulhasan.com/tags/archlinux/</link>
-      <pubDate>Thu, 25 Jan 2024 23:12:42 +0600</pubDate>
-      
-      <guid>https://smnazmulhasan.com/tags/archlinux/</guid>
-      
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>i3</title>
+      <title>I3</title>
       <link>https://smnazmulhasan.com/tags/i3/</link>
       <pubDate>Thu, 25 Jan 2024 23:12:42 +0600</pubDate>
       
@@ -85,7 +129,7 @@
     </item>
     
     <item>
-      <title>i3wm</title>
+      <title>I3wm</title>
       <link>https://smnazmulhasan.com/tags/i3wm/</link>
       <pubDate>Thu, 25 Jan 2024 23:12:42 +0600</pubDate>
       
@@ -96,18 +140,7 @@
     </item>
     
     <item>
-      <title>linux</title>
-      <link>https://smnazmulhasan.com/tags/linux/</link>
-      <pubDate>Thu, 25 Jan 2024 23:12:42 +0600</pubDate>
-      
-      <guid>https://smnazmulhasan.com/tags/linux/</guid>
-      
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>screenshot</title>
+      <title>Screenshot</title>
       <link>https://smnazmulhasan.com/tags/screenshot/</link>
       <pubDate>Thu, 25 Jan 2024 23:12:42 +0600</pubDate>
       
@@ -118,7 +151,7 @@
     </item>
     
     <item>
-      <title>networkmanager</title>
+      <title>Networkmanager</title>
       <link>https://smnazmulhasan.com/tags/networkmanager/</link>
       <pubDate>Thu, 25 Jan 2024 22:13:17 +0600</pubDate>
       

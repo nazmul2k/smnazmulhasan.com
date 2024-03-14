@@ -6,7 +6,29 @@
     <description>Recent content in Categories on S. M. Nazmul Hasan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Feb 2024 14:16:15 +0600</lastBuildDate><atom:link href="https://smnazmulhasan.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Mar 2024 10:13:18 +0600</lastBuildDate><atom:link href="https://smnazmulhasan.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Archlinux</title>
+      <link>https://smnazmulhasan.com/categories/archlinux/</link>
+      <pubDate>Thu, 14 Mar 2024 10:13:18 +0600</pubDate>
+      
+      <guid>https://smnazmulhasan.com/categories/archlinux/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://smnazmulhasan.com/categories/linux/</link>
+      <pubDate>Thu, 14 Mar 2024 10:13:18 +0600</pubDate>
+      
+      <guid>https://smnazmulhasan.com/categories/linux/</guid>
+      
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Tricks</title>
       <link>https://smnazmulhasan.com/categories/tricks/</link>
@@ -30,33 +52,11 @@
     </item>
     
     <item>
-      <title>i3wm</title>
+      <title>I3wm</title>
       <link>https://smnazmulhasan.com/categories/i3wm/</link>
       <pubDate>Thu, 25 Jan 2024 23:12:42 +0600</pubDate>
       
       <guid>https://smnazmulhasan.com/categories/i3wm/</guid>
-      
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Linux</title>
-      <link>https://smnazmulhasan.com/categories/linux/</link>
-      <pubDate>Thu, 25 Jan 2024 23:12:42 +0600</pubDate>
-      
-      <guid>https://smnazmulhasan.com/categories/linux/</guid>
-      
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Archlinux</title>
-      <link>https://smnazmulhasan.com/categories/archlinux/</link>
-      <pubDate>Thu, 25 Jan 2024 22:13:17 +0600</pubDate>
-      
-      <guid>https://smnazmulhasan.com/categories/archlinux/</guid>
       
       <description></description>
       
